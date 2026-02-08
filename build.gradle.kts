@@ -5,7 +5,7 @@ plugins {
    // id("com.github.johnrengelman.shadow") version "8.1.1"//"6.1.0"
 }
 group = "br.com.eduard"
-version = "1.0"
+version = "1.0.0"
 
 java.sourceCompatibility = JavaVersion.VERSION_21
 java.targetCompatibility = JavaVersion.VERSION_21
