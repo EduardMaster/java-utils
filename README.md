@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    api("com.github.EduardMaster:storage-object-mapper:v1.0.0") // v1.0-version
+    api("com.github.EduardMaster:java-utils:v1.0.0") // v1.0-version
 }
 ```
 #### Maven
@@ -28,7 +28,7 @@ dependencies {
 <dependencies>
     <dependency>
         <groupId>com.github.EduardMaster</groupId>
-        <artifactId>java_utils</artifactId>
+        <artifactId>java-utils</artifactId>
         <version>v1.0.0</version>
         <scope>provided</scope>
     </dependency>
