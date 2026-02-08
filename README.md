@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    api("com.github.EduardMaster:java-utils:v1.0.0") // v1.0-version
+    api("com.github.EduardMaster:java-utils:1.0.0") // v1.0-version
 }
 ```
 #### Maven
@@ -29,7 +29,7 @@ dependencies {
     <dependency>
         <groupId>com.github.EduardMaster</groupId>
         <artifactId>java-utils</artifactId>
-        <version>v1.0.0</version>
+        <version>1.0.0</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>
